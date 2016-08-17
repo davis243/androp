@@ -1,7 +1,9 @@
-package pe.com.davis.androp;
+package pe.com.davis.androp.controller;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import pe.com.davis.androp.R;
 
 public class MainActivity extends AppCompatActivity {
 
